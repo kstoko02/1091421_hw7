@@ -1,0 +1,12 @@
+C:\Users\katya\source\repos\1091421_hw7\bin\Debug\1091421_hw7.exe.config
+C:\Users\katya\source\repos\1091421_hw7\bin\Debug\1091421_hw7.exe
+C:\Users\katya\source\repos\1091421_hw7\bin\Debug\1091421_hw7.pdb
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\1091421_hw7.csproj.AssemblyReference.cache
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\_1091421_hw7.Form1.resources
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\_1091421_hw7.Form2.resources
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\_1091421_hw7.Form3.resources
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\_1091421_hw7.Properties.Resources.resources
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\1091421_hw7.csproj.GenerateResource.cache
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\1091421_hw7.csproj.CoreCompileInputs.cache
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\1091421_hw7.exe
+C:\Users\katya\source\repos\1091421_hw7\obj\Debug\1091421_hw7.pdb
